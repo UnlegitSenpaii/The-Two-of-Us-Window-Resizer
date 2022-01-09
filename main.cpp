@@ -146,7 +146,6 @@ bool HandleUserInput() {
         }
         break;
     }
-    //todo: case 2:
     default: {
         return false;
     }
