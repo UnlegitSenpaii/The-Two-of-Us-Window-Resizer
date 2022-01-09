@@ -12,10 +12,6 @@ When starting the app, you can choose between the following:
 
  0. Maximised Window
  1. Borderless Window
- 2. [To-Do] Exclusive Fullscreen 
+ 2. Borderless Window with Mouse Lock
 
 Simply type the number of the mode you want when asked for it.
-
-#### Note
-Exclusive Fullscreen isn't implemented yet.
--> So you don't click all over the place when having multiple monitors, which happens quite often.
